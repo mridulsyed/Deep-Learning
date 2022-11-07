@@ -1,7 +1,5 @@
 # Face Mask Detection - Object Detection
 
-**Complete Video Tutorial:** https://youtu.be/xDCDquQ0sSk
-
 ## Dataset Information
 
 The dataset is collected from the internet and labelled manually with the help of labelImg module. It contains few images for training and testing. The objective of the project is to detect mask on the face with the help of object detection module.
